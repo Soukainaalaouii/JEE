@@ -1,4 +1,4 @@
-[image](https://user-images.githubusercontent.com/101368221/234610155-a4d62b12-e362-406c-8ea8-32ed1fc43444.png)
+![image](https://user-images.githubusercontent.com/101368221/234610155-a4d62b12-e362-406c-8ea8-32ed1fc43444.png)
 Class patient
 
 ![image](https://user-images.githubusercontent.com/101368221/234610313-8d54ce91-5603-4fdd-9138-11d7fe7201c9.png)
